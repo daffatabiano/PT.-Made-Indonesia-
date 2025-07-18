@@ -142,5 +142,5 @@ Using **@tailwindcss/vite** (Tailwind v4.1+) without external `tailwind.config.j
 
 ## 📄 License
 
-This project is created as part of a technical assessment for PT Murni.  
+This project is created as part of a technical assessment for PT Made Indonesia.  
 **Not intended for commercial distribution.**
